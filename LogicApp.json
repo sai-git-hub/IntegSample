@@ -10,7 +10,7 @@
 			"minLength": 1,
 			"maxLength": 80,
 			"metadata": {
-				"description": "Name of the Logic App."
+				"description": "Name of the Logic Application."
 			}
 		},
 		"logicAppLocation": {
