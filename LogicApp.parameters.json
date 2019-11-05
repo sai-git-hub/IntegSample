@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
 	"parameters": {
 		"logicAppName": {
-			"value": "IntegSampleApp5"
+			"value": "IntegSampleApp7"
 		},
 		"endpointurl": {
 			"value": "https://prod-14.eastus.logic.azure.com/workflows/2be7d169ff5043c08251cb44497a4992/triggers/manual/paths/invoke/@{triggerBody()}?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=SGKuzmHbkARttXNqJOAtbNlm0i-5fcdmhEMPrER9KOM"
